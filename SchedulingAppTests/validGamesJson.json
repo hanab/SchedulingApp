@@ -1,0 +1,1022 @@
+
+{
+  "GameList": {
+    "Team": {
+      "-TriCode": "PHI",
+      "-FullName": "Philadelphia Eagles",
+      "-Name": "EAGLES",
+      "-City": "Philadelphia",
+      "-Record": "9-7",
+      "-Wins": "9",
+      "-Losses": "7",
+      "-WinPercentage": ".563"
+    },
+    "DefaultGameId": "2020010501",
+    "GameSection": [
+      {
+        "-Heading": "PRESEASON",
+        "Game": [
+          {
+            "-Id": "2019080861",
+            "-Type": "F",
+            "-Result": "10-27 L",
+            "-Home": "true",
+            "-Week": "Preseason 1",
+            "-Label": "1",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":37",
+            "-AwayScore": "27",
+            "-HomeScore": "10",
+            "-Down": "3RD & 5, PHI 32",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Preseason 1 - Aug 8",
+            "Date": {
+              "-Numeric": "2019-08-08",
+              "-Text": "August 8, 2019",
+              "-Time": "7:30 PM",
+              "-Timestamp": "2019-08-08T23:30:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "TEN",
+              "-FullName": "Tennessee Titans",
+              "-Name": "TITANS",
+              "-City": "Tennessee",
+              "-Record": "9-7"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019080861&majorResource=GAME_MEDIA&minorResource=2019080861",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019080861",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019081554",
+            "-Type": "F",
+            "-Result": "24-10 W",
+            "-Home": "false",
+            "-Week": "Preseason 2",
+            "-Label": "2",
+            "-Venue": "TIAA Bank Field",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":38",
+            "-AwayScore": "24",
+            "-HomeScore": "10",
+            "-Down": "4TH & 13, JAX 31",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Preseason 2 - Aug 15",
+            "Date": {
+              "-Numeric": "2019-08-15",
+              "-Text": "August 15, 2019",
+              "-Time": "7:00 PM",
+              "-Timestamp": "2019-08-15T23:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "JAX",
+              "-FullName": "Jacksonville Jaguars",
+              "-Name": "JAGUARS",
+              "-City": "Jacksonville",
+              "-Record": "6-10"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019081554&majorResource=GAME_MEDIA&minorResource=2019081554",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019081554",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019082256",
+            "-Type": "F",
+            "-Result": "15-26 L",
+            "-Home": "true",
+            "-Week": "Preseason 3",
+            "-Label": "3",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": "11:54",
+            "-AwayScore": "26",
+            "-HomeScore": "15",
+            "-Down": "3RD & 10, BAL 23",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Preseason 3 - Aug 22",
+            "Date": {
+              "-Numeric": "2019-08-22",
+              "-Text": "August 22, 2019",
+              "-Time": "7:30 PM",
+              "-Timestamp": "2019-08-22T23:30:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "BAL",
+              "-FullName": "Baltimore Ravens",
+              "-Name": "RAVENS",
+              "-City": "Baltimore",
+              "-Record": "14-2"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019082256&majorResource=GAME_MEDIA&minorResource=2019082256",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019082256",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019082963",
+            "-Type": "F",
+            "-Result": "0-6 L",
+            "-Home": "false",
+            "-Week": "Preseason 4",
+            "-Label": "4",
+            "-Venue": "MetLife Stadium",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":31",
+            "-AwayScore": "0",
+            "-HomeScore": "6",
+            "-Down": "4TH & 16, PHI 43",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Preseason 4 - Aug 29",
+            "Date": {
+              "-Numeric": "2019-08-29",
+              "-Text": "August 29, 2019",
+              "-Time": "7:00 PM",
+              "-Timestamp": "2019-08-29T23:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "NYJ",
+              "-FullName": "New York Jets",
+              "-Name": "JETS",
+              "-City": "New York",
+              "-Record": "7-9"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019082963&majorResource=GAME_MEDIA&minorResource=2019082963",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019082963",
+              "IsDefault": "false"
+            }
+          }
+        ]
+      },
+      {
+        "-Heading": "REGULAR SEASON",
+        "Game": [
+          {
+            "-Id": "2019090806",
+            "-Type": "F",
+            "-Result": "32-27 W",
+            "-Home": "true",
+            "-Week": "Week 1",
+            "-Label": "1",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":05",
+            "-AwayScore": "27",
+            "-HomeScore": "32",
+            "-Down": "2ND & 11, WAS 41",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Week 1 - Sep 8",
+            "Date": {
+              "-Numeric": "2019-09-08",
+              "-Text": "September 8, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-09-08T17:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "WAS",
+              "-FullName": "Washington Redskins",
+              "-Name": "REDSKINS",
+              "-City": "Washington",
+              "-Record": "3-13"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019090806&majorResource=GAME_MEDIA&minorResource=2019090806",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019090806",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019091513",
+            "-Type": "F",
+            "-Result": "20-24 L",
+            "-Home": "false",
+            "-Week": "Week 2",
+            "-Label": "2",
+            "-Venue": "Mercedes-Benz Stadium",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":28",
+            "-AwayScore": "20",
+            "-HomeScore": "24",
+            "-Down": "2ND & 11, ATL 8",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Week 2 - Sep 15",
+            "Date": {
+              "-Numeric": "2019-09-15",
+              "-Text": "September 15, 2019",
+              "-Time": "8:20 PM",
+              "-Timestamp": "2019-09-16T00:20:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "ATL",
+              "-FullName": "Atlanta Falcons",
+              "-Name": "FALCONS",
+              "-City": "Atlanta",
+              "-Record": "7-9"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019091513&majorResource=GAME_MEDIA&minorResource=2019091513",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019091513",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019092207",
+            "-Type": "F",
+            "-Result": "24-27 L",
+            "-Home": "true",
+            "-Week": "Week 3",
+            "-Label": "3",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":24",
+            "-AwayScore": "27",
+            "-HomeScore": "24",
+            "-Down": "3RD & 12, PHI 47",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Week 3 - Sep 22",
+            "Date": {
+              "-Numeric": "2019-09-22",
+              "-Text": "September 22, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-09-22T17:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "DET",
+              "-FullName": "Detroit Lions",
+              "-Name": "LIONS",
+              "-City": "Detroit",
+              "-Record": "3-12-1"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019092207&majorResource=GAME_MEDIA&minorResource=2019092207",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019092207",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019092600",
+            "-Type": "F",
+            "-Result": "34-27 W",
+            "-Home": "false",
+            "-Week": "Week 4",
+            "-Label": "4",
+            "-Venue": "Lambeau Field",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":20",
+            "-AwayScore": "34",
+            "-HomeScore": "27",
+            "-Down": "2ND & 11, PHI 20",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Week 4 - Sep 26",
+            "Date": {
+              "-Numeric": "2019-09-26",
+              "-Text": "September 26, 2019",
+              "-Time": "8:20 PM",
+              "-Timestamp": "2019-09-27T00:20:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "GB",
+              "-FullName": "Green Bay Packers",
+              "-Name": "PACKERS",
+              "-City": "Green Bay",
+              "-Record": "13-3"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019092600&majorResource=GAME_MEDIA&minorResource=2019092600",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019092600",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019100606",
+            "-Type": "F",
+            "-Result": "31-6 W",
+            "-Home": "true",
+            "-Week": "Week 5",
+            "-Label": "5",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":37",
+            "-AwayScore": "6",
+            "-HomeScore": "31",
+            "-Down": "3RD & 12, PHI 21",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Week 5 - Oct 6",
+            "Date": {
+              "-Numeric": "2019-10-06",
+              "-Text": "October 6, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-10-06T17:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "NYJ",
+              "-FullName": "New York Jets",
+              "-Name": "JETS",
+              "-City": "New York",
+              "-Record": "7-9"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019100606&majorResource=GAME_MEDIA&minorResource=2019100606",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019100606",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019101306",
+            "-Type": "F",
+            "-Result": "20-38 L",
+            "-Home": "false",
+            "-Week": "Week 6",
+            "-Label": "6",
+            "-Venue": "U.S. Bank Stadium",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":09",
+            "-AwayScore": "20",
+            "-HomeScore": "38",
+            "-Down": "2ND & 4, MIN 36",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Week 6 - Oct 13",
+            "Date": {
+              "-Numeric": "2019-10-13",
+              "-Text": "October 13, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-10-13T17:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "MIN",
+              "-FullName": "Minnesota Vikings",
+              "-Name": "VIKINGS",
+              "-City": "Minnesota",
+              "-Record": "10-6"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019101306&majorResource=GAME_MEDIA&minorResource=2019101306",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019101306",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019102011",
+            "-Type": "F",
+            "-Result": "10-37 L",
+            "-Home": "false",
+            "-Week": "Week 7",
+            "-Label": "7",
+            "-Venue": "AT&T Stadium",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":36",
+            "-AwayScore": "10",
+            "-HomeScore": "37",
+            "-Down": "3RD & 7, DAL 49",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Week 7 - Oct 20",
+            "Date": {
+              "-Numeric": "2019-10-20",
+              "-Text": "October 20, 2019",
+              "-Time": "8:20 PM",
+              "-Timestamp": "2019-10-21T00:20:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "DAL",
+              "-FullName": "Dallas Cowboys",
+              "-Name": "COWBOYS",
+              "-City": "Dallas",
+              "-Record": "8-8"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019102011&majorResource=GAME_MEDIA&minorResource=2019102011",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019102011",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019102701",
+            "-Type": "F",
+            "-Result": "31-13 W",
+            "-Home": "false",
+            "-Week": "Week 8",
+            "-Label": "8",
+            "-Venue": "New Era Field",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":33",
+            "-AwayScore": "31",
+            "-HomeScore": "13",
+            "-Down": "1ST & 10, 50",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Week 8 - Oct 27",
+            "Date": {
+              "-Numeric": "2019-10-27",
+              "-Text": "October 27, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-10-27T17:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "BUF",
+              "-FullName": "Buffalo Bills",
+              "-Name": "BILLS",
+              "-City": "Buffalo",
+              "-Record": "10-6"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019102701&majorResource=GAME_MEDIA&minorResource=2019102701",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019102701",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019110305",
+            "-Type": "F",
+            "-Result": "22-14 W",
+            "-Home": "true",
+            "-Week": "Week 9",
+            "-Label": "9",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":23",
+            "-AwayScore": "14",
+            "-HomeScore": "22",
+            "-Down": "2ND & 11, CHI 27",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Week 9 - Nov 3",
+            "Date": {
+              "-Numeric": "2019-11-03",
+              "-Text": "November 3, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-11-03T18:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "CHI",
+              "-FullName": "Chicago Bears",
+              "-Name": "BEARS",
+              "-City": "Chicago",
+              "-Record": "8-8"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019110305&majorResource=GAME_MEDIA&minorResource=2019110305",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019110305",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "0",
+            "-Type": "B",
+            "-Home": "true",
+            "-Week": "Week 10",
+            "-Label": "10",
+            "-IsHome": "false",
+            "CardData": {
+              "ClickthroughURL": "yc://action/NOOP",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019111710",
+            "-Type": "F",
+            "-Result": "10-17 L",
+            "-Home": "true",
+            "-Week": "Week 11",
+            "-Label": "11",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":02",
+            "-AwayScore": "17",
+            "-HomeScore": "10",
+            "-Down": "3RD & 10, PHI 42",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Week 11 - Nov 17",
+            "Date": {
+              "-Numeric": "2019-11-17",
+              "-Text": "November 17, 2019",
+              "-Time": "4:25 PM",
+              "-Timestamp": "2019-11-17T21:25:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "NE",
+              "-FullName": "New England Patriots",
+              "-Name": "PATRIOTS",
+              "-City": "New England",
+              "-Record": "12-4"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019111710&majorResource=GAME_MEDIA&minorResource=2019111710",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019111710",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019112411",
+            "-Type": "F",
+            "-Result": "9-17 L",
+            "-Home": "true",
+            "-Week": "Week 12",
+            "-Label": "12",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":19",
+            "-AwayScore": "17",
+            "-HomeScore": "9",
+            "-Down": "2ND & 11, PHI 49",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Week 12 - Nov 24",
+            "Date": {
+              "-Numeric": "2019-11-24",
+              "-Text": "November 24, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-11-24T18:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "SEA",
+              "-FullName": "Seattle Seahawks",
+              "-Name": "SEAHAWKS",
+              "-City": "Seattle",
+              "-Record": "11-5"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019112411&majorResource=GAME_MEDIA&minorResource=2019112411",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019112411",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019120106",
+            "-Type": "F",
+            "-Result": "31-37 L",
+            "-Home": "false",
+            "-Week": "Week 13",
+            "-Label": "13",
+            "-Venue": "Hard Rock Stadium",
+            "-WLT": "L",
+            "-GameState": "Final",
+            "-Clock": ":00",
+            "-AwayScore": "31",
+            "-HomeScore": "37",
+            "-Down": "1ST & 10, MIA 20",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Week 13 - Dec 1",
+            "Date": {
+              "-Numeric": "2019-12-01",
+              "-Text": "December 1, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-12-01T18:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "MIA",
+              "-FullName": "Miami Dolphins",
+              "-Name": "DOLPHINS",
+              "-City": "Miami",
+              "-Record": "5-11"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019120106&majorResource=GAME_MEDIA&minorResource=2019120106",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019120106",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019120900",
+            "-Type": "F",
+            "-Result": "23-17 W",
+            "-Home": "true",
+            "-Week": "Week 14",
+            "-Label": "14",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": "5:10",
+            "-AwayScore": "17",
+            "-HomeScore": "23",
+            "-Down": "1ST & 10, NYG 15",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Week 14 - Dec 9",
+            "Date": {
+              "-Numeric": "2019-12-09",
+              "-Text": "December 9, 2019",
+              "-Time": "8:15 PM",
+              "-Timestamp": "2019-12-10T01:15:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "NYG",
+              "-FullName": "New York Giants",
+              "-Name": "GIANTS",
+              "-City": "New York",
+              "-Record": "4-12"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019120900&majorResource=GAME_MEDIA&minorResource=2019120900",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019120900",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019121508",
+            "-Type": "F",
+            "-Result": "37-27 W",
+            "-Home": "false",
+            "-Week": "Week 15",
+            "-Label": "15",
+            "-Venue": "FedExField",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":00",
+            "-AwayScore": "37",
+            "-HomeScore": "27",
+            "-Down": "1ST & 10, WAS 15",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Week 15 - Dec 15",
+            "Date": {
+              "-Numeric": "2019-12-15",
+              "-Text": "December 15, 2019",
+              "-Time": "1:00 PM",
+              "-Timestamp": "2019-12-15T18:00:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "WAS",
+              "-FullName": "Washington Redskins",
+              "-Name": "REDSKINS",
+              "-City": "Washington",
+              "-Record": "3-13"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019121508&majorResource=GAME_MEDIA&minorResource=2019121508",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019121508",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019122212",
+            "-Type": "F",
+            "-Result": "17-9 W",
+            "-Home": "true",
+            "-Week": "Week 16",
+            "-Label": "16",
+            "-Venue": "Lincoln Financial Field",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":06",
+            "-AwayScore": "9",
+            "-HomeScore": "17",
+            "-Down": "2ND & 11, DAL 21",
+            "-IsHome": "true",
+            "-ScheduleHeader": "Week 16 - Dec 22",
+            "Date": {
+              "-Numeric": "2019-12-22",
+              "-Text": "December 22, 2019",
+              "-Time": "4:25 PM",
+              "-Timestamp": "2019-12-22T21:25:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "DAL",
+              "-FullName": "Dallas Cowboys",
+              "-Name": "COWBOYS",
+              "-City": "Dallas",
+              "-Record": "8-8"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019122212&majorResource=GAME_MEDIA&minorResource=2019122212",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019122212",
+              "IsDefault": "false"
+            }
+          },
+          {
+            "-Id": "2019122911",
+            "-Type": "F",
+            "-Result": "34-17 W",
+            "-Home": "false",
+            "-Week": "Week 17",
+            "-Label": "17",
+            "-Venue": "MetLife Stadium",
+            "-WLT": "W",
+            "-GameState": "Final",
+            "-Clock": ":14",
+            "-AwayScore": "34",
+            "-HomeScore": "17",
+            "-Down": "1ST & 4, PHI 4",
+            "-IsHome": "false",
+            "-ScheduleHeader": "Week 17 - Dec 29",
+            "Date": {
+              "-Numeric": "2019-12-29",
+              "-Text": "December 29, 2019",
+              "-Time": "4:25 PM",
+              "-Timestamp": "2019-12-29T21:25:00Z",
+              "-IsTBA": "false",
+              "-IsTba": "false"
+            },
+            "Opponent": {
+              "-TriCode": "NYG",
+              "-FullName": "New York Giants",
+              "-Name": "GIANTS",
+              "-City": "New York",
+              "-Record": "4-12"
+            },
+            "Tickets": { "-HasLink": "false" },
+            "Buttons": {
+              "Button": {
+                "Title": "HIGHLIGHTS",
+                "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2019122911&majorResource=GAME_MEDIA&minorResource=2019122911",
+                "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+              }
+            },
+            "CardData": {
+              "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2019122911",
+              "IsDefault": "false"
+            }
+          }
+        ]
+      },
+      {
+        "-Heading": "POSTSEASON",
+        "Game": {
+          "-Id": "2020010501",
+          "-Type": "F",
+          "-Result": "9-17 L",
+          "-Home": "true",
+          "-Week": "Wild Card",
+          "-Label": "WC",
+          "-Venue": "Lincoln Financial Field",
+          "-WLT": "L",
+          "-GameState": "Final",
+          "-Clock": ":14",
+          "-AwayScore": "17",
+          "-HomeScore": "9",
+          "-Down": "4TH & 13, SEA 44",
+          "-IsHome": "true",
+          "-ScheduleHeader": "Wild Card - Jan 5",
+          "Date": {
+            "-Numeric": "2020-01-05",
+            "-Text": "January 5, 2020",
+            "-Time": "4:40 PM",
+            "-Timestamp": "2020-01-05T21:40:00Z",
+            "-IsTBA": "false",
+            "-IsTba": "false"
+          },
+          "Opponent": {
+            "-TriCode": "SEA",
+            "-FullName": "Seattle Seahawks",
+            "-Name": "SEAHAWKS",
+            "-City": "Seattle",
+            "-Record": "11-5"
+          },
+          "Tickets": { "-HasLink": "false" },
+          "Buttons": {
+            "Button": {
+              "Title": "HIGHLIGHTS",
+              "URL": "yc://feature/MEDIA?title=HIGHLIGHTS&path=%2FMedia%2FTaggedList%2fgame%2F2020010501&majorResource=GAME_MEDIA&minorResource=2020010501",
+              "ImageURL": "https://resources-us.yinzcam.com/common/icons/nav_icon_cameras.png"
+            }
+          },
+          "CardData": {
+            "ClickthroughURL": "yc://feature/GT_BOX?league=NFL&id=2020010501",
+            "IsDefault": "false"
+          }
+        }
+      }
+    ],
+    "Filters": {
+      "Filter": {
+        "-Name": "Season Start Year",
+        "-QueryParameter": "year",
+        "-Placeholder": "Select Season",
+        "-Current": "2019",
+        "FilterItems": {
+          "Items": [
+            {
+              "-Id": "2019",
+              "-Name": "2019"
+            },
+            {
+              "-Id": "2018",
+              "-Name": "2018"
+            },
+            {
+              "-Id": "2017",
+              "-Name": "2017"
+            },
+            {
+              "-Id": "2016",
+              "-Name": "2016"
+            },
+            {
+              "-Id": "2015",
+              "-Name": "2015"
+            },
+            {
+              "-Id": "2014",
+              "-Name": "2014"
+            },
+            {
+              "-Id": "2013",
+              "-Name": "2013"
+            },
+            {
+              "-Id": "2012",
+              "-Name": "2012"
+            },
+            {
+              "-Id": "2011",
+              "-Name": "2011"
+            }
+          ]
+        }
+      }
+    },
+    "YinzNode": {
+      "-InVenue": "false",
+      "-VenueStatus": "O",
+      "-Carrier": "NC",
+      "-Ads": "YC",
+      "-Generated": "4/15/2020 3:00:37 PM"
+    }
+  }
+}

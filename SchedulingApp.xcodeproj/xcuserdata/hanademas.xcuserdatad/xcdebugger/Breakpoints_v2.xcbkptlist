@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "33E4FDFE-2219-4BB5-85B2-D5236B85DF7B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBC5838C-911A-4025-8E27-B1B3091BF483"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchedulingApp/Views/GameTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "setUPViews(team:game:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ED7DEF7-31E4-4372-9C9C-F22D7B19484A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchedulingApp/Views/GameTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "setUPViews(team:game:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBF7E6B3-28BC-4E4E-915E-4584A5A857F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchedulingApp/Models/GameList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "GameState"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "DBF7E6B3-28BC-4E4E-915E-4584A5A857F5 - 6e2346b485f72c9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulingApp.GameState.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;SchedulingApp.GameState&gt;"
+                  moduleName = "SchedulingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/SchedulingApp/SchedulingApp/Models/GameList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "DBF7E6B3-28BC-4E4E-915E-4584A5A857F5 - 98376cb141d69ed7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulingApp.GameState.rawValue.getter : Swift.String"
+                  moduleName = "SchedulingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/SchedulingApp/SchedulingApp/Models/GameList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "919A6E11-0C43-47FF-82B1-D4F1E6A802F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchedulingApp/Models/GameList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
+            landmarkName = "TypeEnum"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "919A6E11-0C43-47FF-82B1-D4F1E6A802F1 - f6b8e965c6a0ab16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulingApp.TypeEnum.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;SchedulingApp.TypeEnum&gt;"
+                  moduleName = "SchedulingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/SchedulingApp/SchedulingApp/Models/GameList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "265"
+                  endingLineNumber = "265"
+                  offsetFromSymbolStart = "125">
+               </Location>
+               <Location
+                  uuid = "919A6E11-0C43-47FF-82B1-D4F1E6A802F1 - ecb2e10e686d8ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchedulingApp.TypeEnum.rawValue.getter : Swift.String"
+                  moduleName = "SchedulingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/SchedulingApp/SchedulingApp/Models/GameList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "265"
+                  endingLineNumber = "265"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="z7I-eW-9EJ" customClass="GamesSectionHeader" customModule="SchedulingApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="30"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="list_header" translatesAutoresizingMaskIntoConstraints="NO" id="8cH-0l-AKu">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="30"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GjR-OS-ukn">
+                    <rect key="frame" x="0.0" y="7" width="414" height="16"/>
+                    <fontDescription key="fontDescription" name="MavenProBold" family="Maven Pro" pointSize="14"/>
+                    <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <constraints>
+                <constraint firstItem="8cH-0l-AKu" firstAttribute="leading" secondItem="z7I-eW-9EJ" secondAttribute="leading" id="6Re-aj-lid"/>
+                <constraint firstItem="8cH-0l-AKu" firstAttribute="top" secondItem="z7I-eW-9EJ" secondAttribute="top" id="7FW-Dk-ktn"/>
+                <constraint firstItem="lcn-ly-9DA" firstAttribute="bottom" secondItem="GjR-OS-ukn" secondAttribute="bottom" constant="7" id="7qb-RN-K0A"/>
+                <constraint firstAttribute="trailing" secondItem="8cH-0l-AKu" secondAttribute="trailing" id="EsD-5P-bE4"/>
+                <constraint firstItem="GjR-OS-ukn" firstAttribute="top" secondItem="z7I-eW-9EJ" secondAttribute="top" constant="7" id="PKW-Qx-sez"/>
+                <constraint firstAttribute="trailing" secondItem="GjR-OS-ukn" secondAttribute="trailing" id="UxV-yG-50a"/>
+                <constraint firstItem="GjR-OS-ukn" firstAttribute="leading" secondItem="z7I-eW-9EJ" secondAttribute="leading" id="cNV-Tu-3GR"/>
+                <constraint firstItem="lcn-ly-9DA" firstAttribute="bottom" secondItem="8cH-0l-AKu" secondAttribute="bottom" id="jpl-vz-PDA"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="lcn-ly-9DA"/>
+            <connections>
+                <outlet property="headerImageView" destination="8cH-0l-AKu" id="ipr-jQ-T5E"/>
+                <outlet property="headerTitle" destination="GjR-OS-ukn" id="Uqa-bb-ibP"/>
+            </connections>
+            <point key="canvasLocation" x="163.768115942029" y="91.741071428571431"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="list_header" width="40" height="40"/>
+    </resources>
+</document>
